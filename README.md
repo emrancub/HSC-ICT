@@ -1,4 +1,3 @@
-```md
 # HSC-ICT
 Course materials for Higher Secondary (HSC) **Information & Communication Technology (ICT)**.  
 Books, lecture slides, suggestion sheets, past questions, and practice tasks — all in one place.
